@@ -1,2 +1,2 @@
-# BlackJack_Game
+# BlackJack_Card_Game
 _project_

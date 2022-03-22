@@ -1,2 +1,2 @@
-# BlackJack_Card_Game
-_project_
+# Hand Writing Digit Rcognization
+Using MNIST Dataset and Deep Learning

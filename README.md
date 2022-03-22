@@ -1,2 +1,2 @@
-# Hand Writing Digit Rcognization
+# Hand Written Digit Rcognization
 Using MNIST Dataset and Deep Learning
